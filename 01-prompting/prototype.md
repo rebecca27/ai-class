@@ -1,0 +1,15 @@
+# Prototype · Juno
+
+## Prototype link
+
+https://lovable.dev/share-preview/be83cd0e-30e8-411d-9bf8-d5c25c3e7046#preview_url=https%3A%2F%2Fid-preview--be83cd0e-30e8-411d-9bf8-d5c25c3e7046.lovable.app%3F__lovable_token%3DeyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJwcm9qZWN0X2lkIjoiYmU4M2NkMGUtMzBlOC00MTFkLTliZjgtZDVjMjVjM2U3MDQ2IiwiYWNjZXNzX3R5cGUiOiJ2aWV3ZXIiLCJpc3MiOiJsb3ZhYmxlLWFwaSIsInN1YiI6ImJlODNjZDBlLTMwZTgtNDExZC05YmY4LWQ1YzI1YzNlNzA0NiIsImF1ZCI6WyJsb3ZhYmxlLWFwcCJdLCJleHAiOjE3ODkyMzA0OTUsIm5iZiI6MTc4ODYyNTcxNiwiaWF0IjoxNzg4NjI1NzE2LCJqdGkiOiJhNWZhMWE3OS0yOGE2LTQwNTYtYWU2Mi1iZmE1OGQzYWRjMmEifQ.EIkYi7ZikENwdiCtXTmcaophVP1eiZP0Zy-6ycSw42bzbsdzuUpEglcQf-LJCIX_zte3rEjy7AwbGMlj7Y8CiFYsysRBjpGnGM-mz8wMZiw9tSUIypRtKVU6dZpH-KEHkUfd1u_aCQHuO6ZkXIz265nrzDf1h_X-8MCoGvMXTNnhnny3F5gcOCzq0-TMU5LzQAb9QnuhtXuieSVaI8-PhMDkYr3PC6ZAGiw7O4gKBEi67FGRi13rlvg1xWKvT8fqc_78potZ0SLvkeEhL618F1wMMVc6If8KCn2HrM-bX_YnUI7I9OrloLmRA-5ogPtapWRrq8G1aADAt4pM7GYldQ6n9nYCjrsxzLQB8nRwqSPkGUP5unpzoLXNY94k3ZSVRNi2gLMUuwP21nCqzDrh6rq7UPLxH7zxCBXIhbceRL7Mx4vOuvtAscI6Rd8t4Le951-KG-ugCFWsX8qN1m3A_B_mDol78Bfy1CT0-1kFiapEgrumGIdM_wcd7VeeWWLlUJ3mlCw9euyfKxRsmEl511wwWZ-G517cJYlhXmEUre6ETbXvm0c_CZo83ElJuRPJXjIcEKZ9llowa4F2JWWrCTZn0cpQU0JotnLdNyWdgH-Kh6xeWUD3dVVRjvOPfkTC7qEd0Ozw5w72iRaXYYmt4g3IFq2NLTxsvgugyOtSCC4
+
+## What it demonstrates
+
+The dominant signal clusters around Reporting
+
+## Debrief
+
+- **What worked:** Synthesizing 2 raw inputs from interviews, support tickets, and exec emails.
+- **What broke / felt like a toy:** Users are spending real time on workarounds today
+- **What I'd change next pass:** Look into the requirement for outcome Metrix
